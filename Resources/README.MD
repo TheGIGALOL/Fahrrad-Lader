@@ -63,6 +63,6 @@ So ziemlich alle Schaltungen bestehen aus:
 	- Erstaunlich gute Leistung
 	- Geringe Komplexität. Wird auch dadurch erreicht, dass ein großer Teil auf
 	  ein fertiges USB-PD-Modul ausgelagert wird.
-	- lässt sich noch per Hand löten ( Workshops mit Noobs)
+	- Lässt sich noch per Hand löten ( Workshops mit Noobs).
 - Nachteile
 	- Hat einen festen Boost-Kondensator
